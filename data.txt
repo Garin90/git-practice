@@ -1,0 +1,3 @@
+Name: Alex Garrido
+Age: 32
+Favorite color: blue
